@@ -1,0 +1,18 @@
+{
+  "name": "insideout-calendar",
+  "version": "0.0.1",
+  "description": "InsideOut Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calendar",
+    "event",
+    "meetup",
+    "conference",
+    "insideout"
+  ],
+  "author": "Dayany Espindola <dayanyrec@gmail.com>",
+  "license": "MIT"
+}
