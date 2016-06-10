@@ -30,5 +30,15 @@
     "start"  : "2016-07-07T19:00:00",
     "allDay" : "false"
   }
+  {
+    "title"  : "4º Encontro Carioca de Testes",
+    "start"  : "2016-06-14T19:00:00",
+    "allDay" : "2016-06-14T21:30:00"
+  }
+  {
+    "title"  : "DevOps Carioca 5 - edição Mobile",
+    "start"  : "2016-06-28T19:00:00",
+    "allDay" : "2016-06-28T21:30:00"
+  }
 ]
 
