@@ -5,7 +5,7 @@ $(document).ready(function() {
       center: 'title',
       right: 'month, basicWeek, basicDay'
     },
-    events: '../events.json',
+    events: 'events.json',
     eventColor: '#D3360B'
   });
 });
