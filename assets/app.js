@@ -1,6 +1,11 @@
 $(document).ready(function() {
-    $('#calendar').fullCalendar({
-      events: '../events.json',
-      eventColor: '#D3360B'
-    });
+  $('#calendar').fullCalendar({
+    header: {
+      left: 'prev, next, today',
+      center: 'title',
+      right: 'month, basicWeek, basicDay'
+    },
+    events: '../events.json',
+    eventColor: '#D3360B'
+  });
 });
