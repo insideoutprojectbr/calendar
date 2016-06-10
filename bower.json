@@ -1,0 +1,27 @@
+{
+  "name": "insideout-calendar",
+  "description": "InsideOut Calendar",
+  "main": "index.js",
+  "authors": [
+    "Dayany Espindola <dayanyrec@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "calendar",
+    "event",
+    "meetup",
+    "conference",
+    "insideout"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar": "^2.7.3"
+  }
+}
