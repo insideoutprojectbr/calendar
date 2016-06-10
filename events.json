@@ -1,32 +1,44 @@
 [
   {
     "title"  : "LuaConf",
+    "url"    : "http://luaconf.com/",
     "start"  : "2016-07-09"
   },
   {
     "title"  : "Meetup PythOnRio",
+    "url"    : "http://pythonrio.python.org.br/",
     "start"  : "2016-06-25"
   },
   {
     "title"  : "Pré FISL Rio",
+    "url"    : "http://pre-fisl-rio.github.io/",
     "start"  : "2016-06-04"
   },
   {
     "title"  : "Meetup PythOnRio",
+    "url"    : "http://pythonrio.python.org.br/",
     "start"  : "2016-05-28"
   },
   {
+    "title"  : "Workshop Pyladies",
+    "url"    : "https://www.eventbrite.com/e/workshop-pyladies-rio-tickets-24725146579",
+    "start"  : "2016-05-14"
+  },
+  {
     "title"  : "Workshop Pyladies Fundão",
+    "url"    : "http://rio.pyladies.com/workshop-fundao/",
     "start"  : "2016-04-12",
     "end"    : "2016-04-13"
   },
   {
     "title"  : "5º Encontro do Elug-RJ",
+    "url"    : "http://www.meetup.com/elixir-rj/events/231516355/",
     "start"  : "2016-06-09T19:00:00",
     "allDay" : "false"
   },
   {
     "title"  : "6º Encontro do Elug-RJ",
+    "url"    : "http://www.meetup.com/elixir-rj/events/231794521/",
     "start"  : "2016-07-07T19:00:00",
     "allDay" : "false"
   },
