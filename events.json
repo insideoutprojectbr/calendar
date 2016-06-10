@@ -1,16 +1,34 @@
 [
   {
-    "title"  : "event1",
-    "start"  : "2016-06-01"
+    "title"  : "LuaConf",
+    "start"  : "2016-07-09"
   },
   {
-    "title"  : "event2",
-    "start"  : "2016-06-05",
-    "end"    : "2016-06-07"
+    "title"  : "Meetup PythOnRio",
+    "start"  : "2016-06-25"
   },
   {
-    "title"  : "event3",
-    "start"  : "2016-06-09T12:30:00",
+    "title"  : "Pré FISL Rio",
+    "start"  : "2016-06-04"
+  },
+  {
+    "title"  : "Meetup PythOnRio",
+    "start"  : "2016-05-28"
+  },
+  {
+    "title"  : "Workshop Pyladies Fundão",
+    "start"  : "2016-04-12",
+    "end"    : "2016-04-13"
+  },
+  {
+    "title"  : "5º Encontro do Elug-RJ",
+    "start"  : "2016-06-09T19:00:00",
+    "allDay" : "false"
+  },
+  {
+    "title"  : "6º Encontro do Elug-RJ",
+    "start"  : "2016-07-07T19:00:00",
     "allDay" : "false"
   }
 ]
+
