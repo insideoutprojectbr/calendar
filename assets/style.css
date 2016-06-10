@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  border-top: 10px solid #2b2e33;
+}
+
+section {
+  width: 80vw;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+h1 {
+  text-align: center;
+  width: auto;
+}
+
+#title {
+  max-width: 80vw;
+}
