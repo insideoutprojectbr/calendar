@@ -1,7 +1,7 @@
 Calendar
 ========
 
-http://insideoutproject.xyz/mulheres-palestrantes/
+http://insideoutproject.xyz/calendar/
 
 Calendário com eventos de TI.
 
